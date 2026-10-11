@@ -1,0 +1,11 @@
+﻿# Estado local de Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Papelera y archivos temporales
+.trash/
+~$*
+*.tmp
+Thumbs.db
+Desktop.ini
