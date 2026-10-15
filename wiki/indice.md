@@ -1,6 +1,6 @@
 # Índice de la wiki
 
-Actualizado: 2026-10-09.
+Actualizado: 2026-10-12.
 
 ## Inicio y funcionamiento
 
@@ -10,8 +10,10 @@ Actualizado: 2026-10-09.
 
 ## Fuentes y conocimiento
 
-- [Memoria de prácticas](paginas/memoria-de-practicas.md): finalidad de la wiki, evaluación comunicada y preparación de la memoria y las entrevistas.
+- La [memoria de prácticas](paginas/memoria-de-practicas.md#selección-de-asuntos-para-la-memoria) incluirá un máximo de tres asuntos relevantes; su selección queda pendiente de completar las fichas de casos y tareas.
+- [Memoria de prácticas](paginas/memoria-de-practicas.md): finalidad de la wiki, extensión de 5.000–9.000 palabras, prácticas del 2026-09-07 al 2026-12-11, primera entrevista el 2026-10-23, evaluación comunicada y preparación de la memoria y las dos videoconferencias.
 
+- [Memoria del curso anterior](paginas/memoria-de-referencia.md): fuente aportada, índice adoptado y modelo de portada para el mismo despacho.
 - [Propuesta de Karpathy](paginas/propuesta-de-karpathy.md): ficha de la referencia inicial.
 - [Referencia bibliográfica](fuentes/referencia-karpathy.md): procedencia y alcance del material consultado.
 - [Preguntas pendientes](paginas/preguntas-pendientes.md): decisiones abiertas para ampliar la base.

@@ -2,7 +2,7 @@
 
 Abre el [índice](indice.md) para navegar por las páginas. Esta carpeta puede utilizarse directamente en un lector de Markdown o abrirse como una bóveda en Obsidian.
 
-La finalidad es preparar tu [memoria de prácticas del máster de abogacía](paginas/memoria-de-practicas.md) y reunir material para las cinco entrevistas con el tutor académico.
+La finalidad es preparar tu [memoria de prácticas del máster de abogacía](paginas/memoria-de-practicas.md) y reunir material para las dos entrevistas con el tutor académico.
 
 ## Empezar
 

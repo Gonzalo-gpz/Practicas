@@ -4,7 +4,7 @@
 
 Escribe exclusivamente en español: títulos, explicaciones, metadatos, resúmenes, respuestas y registro. Los nombres propios, direcciones y el nombre técnico AGENTS.md se conservan cuando sean necesarios. Si una fuente está en otro idioma, redacta su ficha en español sin alterar el archivo original.
 
-Esta base de conocimiento sirve para preparar la memoria de prácticas como becario en un despacho de abogados, evaluada en el máster de abogacía, y para apoyar las cinco entrevistas académicas por videoconferencia. El usuario selecciona los documentos y orienta las preguntas. Consulta `paginas/memoria-de-practicas.md` para el contexto y los criterios comunicados; distingue los requisitos documentados de las interpretaciones pendientes de confirmación. Al sintetizar tareas y casos, destaca la intervención propia, el resultado, las observaciones del tutor y los aprendizajes.
+Esta base de conocimiento sirve para preparar la memoria de prácticas como becario en un despacho de abogados, evaluada en el máster de abogacía, y para apoyar las dos entrevistas académicas por videoconferencia. El usuario selecciona los documentos y orienta las preguntas. Consulta `paginas/memoria-de-practicas.md` para el contexto y los criterios comunicados; distingue los requisitos documentados de las interpretaciones pendientes de confirmación. Al sintetizar tareas y casos, destaca la intervención propia, el resultado, las observaciones del tutor y los aprendizajes.
 
 ## Estructura
 
