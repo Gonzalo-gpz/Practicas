@@ -1,6 +1,6 @@
 # Memoria del curso anterior: referencia de portada e índice
 
-Actualización: 2026-10-12. Estado: fuente consultada; portada e índice adoptados por indicación del usuario.
+Actualización: 2026-10-15. Estado: fuente consultada; portada e índice adoptados por indicación del usuario.
 
 ## Identificación y alcance
 
@@ -55,7 +55,7 @@ Referencia visual: página PDF 1, formato A4 vertical.
 | Curso | 2025/2026 | CURSO: 2026/2027. |
 | Tutor externo | Juan Carlos Monclús | TUTOR PROFESIONAL: Juan Carlos Monclús Fraga. |
 | Tutor interno | Antonio José Muñoz González | TUTOR ACADÉMICO: Antonio José Muñoz González. |
-| Fecha de entrega | 2026-05-22 | Sustituir por la fecha de entrega que se comunique. |
+| Fecha de entrega | 2026-05-22 | Indicar la fecha efectiva de presentación; fin del plazo: 2026-12-11. |
 
 ## Datos confirmados para la portada propia
 
@@ -66,7 +66,7 @@ Datos aportados por el usuario el 2026-10-12:
 - Tutor profesional: **Juan Carlos Monclús Fraga**.
 - Tutor académico: **Antonio José Muñoz González**.
 
-Se conservará el diseño de la portada de referencia, con estos datos y los rótulos «ALUMNO», «TUTOR PROFESIONAL» y «TUTOR ACADÉMICO». El encabezado llevará el nombre del alumno y el curso 2026/2027; el título también indicará ese curso. La fecha de entrega queda pendiente. El resto de información se incorporará conforme la aporte el usuario.
+Se conservará el diseño de la portada de referencia, con estos datos y los rótulos «ALUMNO», «TUTOR PROFESIONAL» y «TUTOR ACADÉMICO». El encabezado llevará el nombre del alumno y el curso 2026/2027; el título también indicará ese curso. El fin del plazo de entrega es el 2026-12-11 según el documento del tutor; en la portada figurará la fecha efectiva de presentación. Faltan grupo y ubicación de la entidad. El resto de información se incorporará conforme la aporte el usuario.
 
 ## Orientación para el contenido
 
@@ -75,6 +75,12 @@ Se conservará el diseño de la portada de referencia, con estos datos y los ró
 - Problemas y resolución: casos concretos con problema, intervención de la alumna, actuación y aprendizaje (páginas PDF 7–10).
 - Aprendizajes, procura y evaluación: reflexión sobre competencias, coordinación profesional y propuestas de mejora (páginas PDF 10–14).
 - Anexos: dos escritos de recurso vinculados a los casos descritos (páginas PDF 15–23).
+
+## Contraste con las indicaciones académicas
+
+Las [indicaciones del tutor](indicaciones-tutor-academico.md), páginas 1 y 2, exigen portada, índice y seis contenidos. El modelo cubre esos temas y añade introducción, pero sitúa aprendizaje antes de procura, al revés que la enumeración del tutor. Se conserva la estructura elegida por el usuario y se deja pendiente aclarar el orden. La portada debe incorporar también grupo y ubicación de la entidad. El material adicional requiere consentimiento previo del tutor profesional; no se trasladan automáticamente los anexos del modelo.
+
+El [correo de convocatoria del 2026-10-15](correos-tutor-academico.md) exige cinco apartados y no enumera procura. El modelo de siete apartados elegido por el usuario se conserva como referencia; el borrador a remitir antes del 2026-10-22 debe contrastarse con esa estructura y aclarar el encaje de introducción y procura. No se considera el modelo anterior una instrucción académica vigente.
 
 ## Límites y discrepancias
 

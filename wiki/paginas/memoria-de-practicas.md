@@ -1,6 +1,6 @@
 # Memoria de prácticas del máster de abogacía
 
-Actualización: 2026-10-12. Estado: objetivo definido; requisitos académicos pendientes de documentación.
+Actualización: 2026-10-15. Estado: indicaciones académicas incorporadas; discrepancias pendientes de aclaración.
 
 ## Finalidad de la wiki
 
@@ -17,25 +17,25 @@ Datos comunicados por el usuario el 2026-10-12 e incorporados al [modelo de port
 
 ## Periodo de prácticas
 
-Las prácticas comenzaron el **2026-09-07** y terminan el **2026-12-11**. El usuario comunicó la fecha de inicio el 2026-10-12 y la de finalización el 2026-10-11. Queda pendiente conocer el total de horas de prácticas. La fecha de entrega de la memoria todavía no se ha comunicado.
+Las prácticas comenzaron el **2026-09-07** y terminan el **2026-12-11**. El usuario comunicó la fecha de inicio el 2026-10-12 y la de finalización el 2026-10-11. Queda pendiente conocer el total de horas de prácticas. El documento del tutor fija el fin del plazo de entrega de la memoria en **2026-12-11** (página 3).
 
 ## Evaluación comunicada
 
 | Responsable | Componente | Peso sobre la nota final |
 | --- | --- | --- |
 | Tutor profesional | Evaluación de las prácticas | 50 % |
-| Tutor académico | Memoria de prácticas | 35 % — interpretación pendiente de confirmar |
-| Tutor académico | Dos entrevistas por videoconferencia | 15 % — interpretación pendiente de confirmar |
+| Tutor académico | Memoria de prácticas | 35 % |
+| Tutor académico | Programa de comunicaciones y entrevistas | 15 % |
 
-El usuario indica que cada tutor aporta el 50 % y que la parte académica se divide entre la memoria y dos entrevistas. Se interpreta provisionalmente que el 35 % y el 15 % son puntos porcentuales de la nota total, porque suman el 50 % académico. La expresión «35 % de ese 50 %» requiere confirmación con la guía académica. No se presupone que las dos entrevistas tengan igual ponderación.
+El [documento del tutor académico](indicaciones-tutor-academico.md), página 2, confirma estos porcentajes sobre la nota final. El 15 % corresponde al programa de comunicaciones y entrevistas, incluida la reunión colectiva; no se reparte expresamente entre las dos videoconferencias. La rúbrica interna de la memoria presenta cifras que no suman 100 % y requiere aclaración. Aunque el documento denomina la asignatura Prácticas Externas I, el usuario confirma el 2026-10-15 que el tutor lo aplica a Prácticas II salvo la fecha de la segunda videoconferencia.
 
 ## Calendario de entrevistas
 
-La primera entrevista académica por videoconferencia será el 2026-10-23. Se toma 2026 como año por el contexto de las prácticas. La hora de la primera está pendiente de recibir la invitación; también queda pendiente el enlace de conexión. Falta confirmar la fecha de la segunda videoconferencia.
+La primera entrevista académica por videoconferencia será el **2026-10-23, de 12:20 a 12:30**, hora de Madrid (Europe/Madrid), con una duración prevista de **10 minutos**. El horario fue comunicado por el usuario el 2026-10-15. Se toma 2026 como año por el contexto de las prácticas. El [correo de convocatoria](correos-tutor-academico.md) aporta el [enlace de Google Meet](https://meet.google.com/sny-swgo-ozm); acceso preferente con la cuenta universitaria y audio y vídeo abiertos. La fecha de la segunda videoconferencia está **pendiente de confirmar**, al igual que su hora y enlace. El usuario aclara que la fecha 2026-12-18 del PDF no se aplica a estas Prácticas II. El documento recoge además una reunión colectiva el 2026-09-18 a las 09:00; no se presume asistencia. El calendario de reuniones es provisional (página 3).
 
 ## Extensión de la memoria
 
-La memoria debe tener entre **5.000 y 9.000 palabras**, según la indicación del profesor comunicada por el usuario el 2026-10-11. Queda pendiente precisar si el cómputo incluye portada, índice, notas, bibliografía y anexos, así como incorporar las instrucciones académicas escritas cuando estén disponibles.
+La memoria debe tener entre **5.000 y 9.000 palabras**, según la indicación del profesor comunicada por el usuario el 2026-10-11. Queda pendiente precisar si el cómputo incluye portada, índice, notas, bibliografía y anexos. El documento del tutor, página 2, confirma la extensión y exige entrega en PDF por correo a amunozg@unizar.es. El material adicional requiere consentimiento previo del tutor profesional.
 
 ## Modelo de portada e índice
 
@@ -57,20 +57,29 @@ Este requisito y la decisión de posponer la selección fueron comunicados por e
 - Recoger en una nota por entrevista la fecha, los temas tratados, las indicaciones del tutor académico y las acciones pendientes.
 - Al redactar la memoria, seleccionar ejemplos representativos y distinguir el trabajo propio de las actuaciones de otros profesionales.
 
-Estos pasos son una propuesta de organización de la wiki, no requisitos oficiales de la universidad. El índice y la portada seguirán el modelo aportado por instrucción del usuario; cualquier requisito adicional de la guía académica se integrará cuando esté disponible.
+Estos pasos son una propuesta de organización de la wiki, no requisitos oficiales de la universidad. El índice y la portada seguirán el modelo aportado por instrucción del usuario; los requisitos del documento académico ya incorporado se recogen en la sección siguiente, conservando sus discrepancias pendientes de aclaración.
+
+## Requisitos y próximas actuaciones
+
+Las [indicaciones del tutor académico](indicaciones-tutor-academico.md) recogen los seis contenidos obligatorios, la rúbrica, el calendario y la estancia de aproximadamente una semana con procurador, con la exención descrita en la fuente. Falta determinar la situación del usuario respecto a esta estancia.
+
+El [correo del 2026-10-15 a las 10:07](correos-tutor-academico.md) concreta el envío del borrador del índice: **antes del jueves 2026-10-22**, por correo a amunozg@unizar.es. Prever el envío como máximo el día 21 y preparar los asuntos del apartado a.3 para comentarlos en la entrevista. No consta envío ni acuse separado.
+
+La convocatoria exige cinco apartados, sin procura independiente, frente a los seis contenidos del PDF general. Debe aclararse cómo encajar procura y el modelo anterior antes de cerrar el índice. El alumno declara en su correo que Prácticas I fueron convalidadas; ello no acredita por sí solo una exención de procura en Prácticas II. La portada deberá incluir grupo y ubicación de la entidad.
 
 ## Información pendiente
 
-- Guía, rúbrica o instrucciones oficiales de la memoria y las entrevistas.
-- Criterios de cómputo de las 5.000–9.000 palabras, requisitos adicionales de formato y fecha de entrega; índice y modelo de portada ya fijados.
-- Total de horas de prácticas; periodo comunicado: del 2026-09-07 al 2026-12-11.
-- Recibir la invitación con la hora y el enlace de la primera entrevista (2026-10-23), confirmar la fecha de la segunda y precisar el contenido y la ponderación de las dos entrevistas.
-- Confirmación de los pesos de evaluación.
-- Elegir conjuntamente, más adelante y a partir de las fichas completadas, un máximo de tres asuntos relevantes para la memoria.
+- Aclarar los porcentajes de la rúbrica interna y el orden de los apartados; la aplicación a Prácticas II ya está confirmada salvo la fecha de la segunda videoconferencia.
+- Precisar el cómputo de palabras y cualquier formato adicional no especificado.
+- Completar grupo y ubicación del despacho, total de horas de prácticas y estancia de procura o eventual exención.
+- Confirmar fecha, hora y enlace de la segunda videoconferencia; el enlace de la primera ya consta.
+- Remitir el índice antes del 2026-10-22, registrar su envío y confirmar el acuse separado de la convocatoria.
+- Elegir conjuntamente un máximo de tres asuntos relevantes y obtener consentimiento para el material adicional.
+- Dar seguimiento a la entrega del informe del tutor externo, cuyo plazo termina el 2026-12-11.
 
 ## Referencias
 
-Información facilitada por el usuario en esta conversación el 2026-10-09. No se ha aportado todavía una guía académica que documente los criterios.
+Información facilitada por el usuario desde el 2026-10-09 y contrastada el 2026-10-15 con las [indicaciones académicas aportadas](indicaciones-tutor-academico.md), páginas 1–4. Esta fuente documenta los criterios generales; sus discrepancias se conservan expresamente.
 
 Fecha de finalización facilitada por el usuario en esta conversación el 2026-10-11.
 
@@ -80,13 +89,15 @@ Fecha de la primera entrevista facilitada por el usuario el 2026-10-11 («23 de 
 
 Extensión de la memoria indicada por el profesor, según lo comunicado por el usuario en esta conversación el 2026-10-11.
 
-Número de videoconferencias corregido a dos por el usuario el 2026-10-11. La fecha de la segunda está pendiente de confirmación y la hora de la primera, de recibir la invitación.
+Número de videoconferencias corregido a dos por el usuario el 2026-10-11. La fecha 2026-12-18 del documento queda descartada para Prácticas II por aclaración del usuario del 2026-10-15; falta la nueva fecha. Horario de la primera comunicado por el usuario el 2026-10-15: de 12:20 a 12:30, interpretado en la zona horaria de Madrid.
 
 Referencia de portada e índice: [memoria del curso anterior](memoria-de-referencia.md), aportada por el usuario el 2026-10-12.
 
 Límite de tres asuntos y selección posterior comunicados por el usuario el 2026-10-12.
 
 ## Páginas relacionadas
+
+- [Correos con el tutor académico](correos-tutor-academico.md): cuatro PDF incorporados el 2026-10-15.
 
 - [Memoria de referencia: portada e índice](memoria-de-referencia.md).
 - [Índice de la wiki](../indice.md).

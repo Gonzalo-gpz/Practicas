@@ -6,6 +6,10 @@ Escribe exclusivamente en español: títulos, explicaciones, metadatos, resúmen
 
 Esta base de conocimiento sirve para preparar la memoria de prácticas como becario en un despacho de abogados, evaluada en el máster de abogacía, y para apoyar las dos entrevistas académicas por videoconferencia. El usuario selecciona los documentos y orienta las preguntas. Consulta `paginas/memoria-de-practicas.md` para el contexto y los criterios comunicados; distingue los requisitos documentados de las interpretaciones pendientes de confirmación. Al sintetizar tareas y casos, destaca la intervención propia, el resultado, las observaciones del tutor y los aprendizajes.
 
+Consulta también `paginas/indicaciones-tutor-academico.md`, basada en el PDF aportado el 2026-10-15. Comprueba la cobertura de los contenidos obligatorios al redactar y conserva las discrepancias pendientes de la rúbrica. El usuario confirma que el documento se aplica a Prácticas II salvo la fecha de la segunda videoconferencia, que queda pendiente; no uses el 2026-12-18 como fecha de su convocatoria. No inventes asistencia a reuniones, envío de índice, exención de procura ni consentimientos.
+
+Consulta `paginas/correos-tutor-academico.md`: el correo del 2026-10-15 concreta el envío del borrador del índice antes del jueves 2026-10-22 y aporta el enlace de la primera videoconferencia. Distingue la segunda tutoría (primera videoconferencia) de la segunda videoconferencia. La convocatoria enumera cinco apartados frente a seis del PDF general; conserva la discrepancia y no deduzcas exención de procura de la convalidación de Prácticas I.
+
 ## Estructura
 
 - `fuentes/`: documentos aportados, conservados sin modificaciones; contiene inicialmente una referencia bibliográfica en español.

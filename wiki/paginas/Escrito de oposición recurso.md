@@ -1,11 +1,11 @@
 # Tarea 001 — Escrito de oposición a recurso de reforma
 
-Fecha de creación: 2026-09-15. Última actualización: 2026-10-08.
+Fecha de creación: 2026-09-15. Última actualización: 2026-10-15.
 Estado: completada, según el registro del usuario; fecha de realización y entrega pendientes de consignar.
 
 ## Comprobaciones pendientes
 
-- El plan recoge 2026-10-10 como fecha prevista y «Realizada» como estado. Confirma la fecha efectiva; se conserva el dato indicado.
+- El plan ya recoge 2026-09-15, «Realizada» y «Presentado en el Juzgado». Falta consignar expresamente la fecha efectiva de entrega o presentación y su justificante; la advertencia anterior sobre 2026-10-10 queda sustituida por esta actualización.
 - «Resultado solicitado» contiene «Sin respuesta todavía». Conviene distinguir el escrito encargado de la respuesta o resolución pendiente.
 - Falta identificar el expediente y aportar o indicar la ubicación del escrito, del recurso de contrario y del modelo mencionado. No se han creado enlaces a documentos ausentes.
 

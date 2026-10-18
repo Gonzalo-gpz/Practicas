@@ -61,3 +61,47 @@ Se incorporaron los datos facilitados por el usuario: curso 2026/2027, alumno Go
 ## [2026-10-12] corrección | Fecha de inicio de las prácticas
 
 El usuario rectifica la fecha de inicio: las prácticas comenzaron el 2026-09-07, no el 2026-09-09 comunicado anteriormente. El periodo correcto es del 2026-09-07 al 2026-12-11. Se actualizaron paginas/memoria-de-practicas.md, paginas/preguntas-pendientes.md y el índice. La entrada anterior se conserva como historial y queda rectificada por esta entrada.
+
+## [2026-10-15] calendario | Horario de la primera videoconferencia
+
+El usuario comunica que la primera videoconferencia del 2026-10-23 será de 12:20 a 12:30. Se registra en hora de Madrid, con una duración prevista de 10 minutos. Se actualizaron la memoria de prácticas, las preguntas pendientes y el índice. Quedan pendientes el enlace de conexión y la fecha de la segunda videoconferencia. Esta entrada actualiza las referencias históricas que dejaban pendiente la hora de la primera entrevista.
+
+## [2026-10-15] revisión | Nuevas fichas de caso y tarea
+
+Se trasladó la nota de localización del Consejo de Estado desde la raíz a paginas/localizacion-dictamen-consejo-de-estado.md y se enlazó con el caso FP 73.804 y FP 81.668. Se añadieron ambas fichas al índice y se actualizaron la guía y las preguntas pendientes. Se retiraron instrucciones de ejemplo de la tarea nueva y se sustituyó la advertencia desactualizada sobre la fecha prevista de la tarea 001. Se conservaron los datos del usuario, distinguiendo las referencias jurídicas pendientes de documentar y sin decidir la selección de asuntos para la memoria.
+
+## [2026-10-15] fuente | Información general de prácticas del tutor académico
+
+Se leyeron y revisaron visualmente las cuatro páginas del nuevo PDF, que se conserva sin cambios. Se creó paginas/indicaciones-tutor-academico.md y se actualizaron memoria, referencia de portada e índice, preguntas pendientes, índice, guía e instrucciones. Se documentaron entrega en PDF hasta el 2026-12-11, segunda videoconferencia el 2026-12-18, borrador de índice, procura y exención, requisitos de portada, consentimiento para material adicional y porcentajes globales 50/35/15. Se mantuvieron pendientes la rúbrica inconsistente (105 % o 95 % con paréntesis), la denominación Prácticas Externas I y el hito exacto de envío del índice. Las entradas históricas no se modificaron.
+
+## [2026-10-15] aclaración | Aplicación a Prácticas II y segunda videoconferencia
+
+El usuario confirma que el tutor académico considera aplicable el documento de información general a Prácticas II, salvo la fecha de la segunda videoconferencia. Se retira el 2026-12-18 del calendario vigente y se dejan fecha, hora y enlace pendientes. Se actualizan las indicaciones, la memoria, las preguntas pendientes, el índice y las instrucciones. El plazo de entrega y los demás requisitos se mantienen. La rúbrica inconsistente continúa pendiente de aclaración. El PDF y las entradas históricas se conservan sin cambios.
+
+## [2026-10-15] fuentes | Cuatro correos con el tutor académico
+
+Se leyeron los cuatro PDF completos (cinco páginas) y se revisaron sus imágenes. Se creó paginas/correos-tutor-academico.md y se actualizaron índice, memoria, indicaciones generales, modelo de referencia, preguntas e instrucciones. Se documentaron plazo del índice antes del 2026-10-22, enlace Meet, condiciones de acceso, preparación de asuntos a.3, solicitud de estructura y respuesta recibida. Se conservaron las diferencias entre cinco apartados de la convocatoria y seis del PDF, sin inferir exención de procura ni acreditar envíos o asistencia ausentes. Los adjuntos solo mencionados y no aportados se registraron como pendientes; los originales no se modificaron.
+
+## [2026-10-15] referencia | Enlace al dictamen 522/1991
+
+El usuario aporta el enlace https://www.boe.es/buscar/doc.php?id=CE-D-1991-522. Se retiran las menciones que lo dejaban pendiente y se actualizan la tarea, el caso, las preguntas, la guía y el índice. El intento de consulta web no permitió acceder al contenido; no se declara verificado ni se incorporan conclusiones jurídicas nuevas.
+
+## [2026-10-15] análisis | Verificación del dictamen 522/1991 para reclamación
+
+Se accedió directamente al texto completo del BOE y se guardó una extracción en fuentes, superando el fallo de acceso previo. Se elaboró paginas/analisis-dictamen-522-1991.md con contraste de los dictámenes 538/1996 y 7/2024 y la Ley Orgánica 4/2026. Se actualizaron tarea, caso, índice y pendientes. Se distinguió indemnidad funcionarial de responsabilidad civil subsidiaria, y se señalaron plazo, cuantificación, prueba y aplicación temporal como cuestiones no resueltas sin expediente. No se redactó ni presentó reclamación.
+
+## [2026-10-15] jurisprudencia | Búsqueda de sentencias favorables de indemnidad penitenciaria
+
+Se identificó la sentencia 124/2017 del Juzgado Central n.º 1, con cita expresa al 522/1991 y condena a 5.220 euros más intereses. Se distinguieron fallos favorables de instancia posteriormente anulados de los resultados subsistentes no certificados. Se incorporaron las SSTS 290/2022 y 1371/2023 como límite relevante y se matizó el análisis anterior. Se creó la ficha de búsqueda y se enlazó desde el caso y el índice. No se presentó reclamación ni se acreditó firmeza por certificación.
+
+## [2026-10-15] verificación ampliada | Cita al 522/1991 y conservación del fallo
+
+Se localizó y leyó el texto judicial de la sentencia 136/2025 del TSJ de Extremadura, PO 320/2024, favorable por 450 euros y con cita expresa al dictamen. No se acreditó su firmeza ni la resolución de recursos. Se corrigió la clasificación inicial de la sentencia 124/2017 como plenamente verificada en los tres requisitos: el fallo no apelable no basta para certificar mantenimiento. Se registraron como pistas no verificadas la 144/2015 y referencias sindicales sin identificación. Se actualizaron ficha, índice y pendientes sin presentar reclamaciones ni contactar con terceros.
+
+## [2026-10-15] jurisprudencia | Dos criterios de búsqueda
+
+Se amplió la búsqueda sin exigir cita al dictamen 522/1991 y se incorporó la STS de 2011-10-07, recurso 2675/2010. Se distinguió la responsabilidad por funcionamiento anormal de la indemnidad automática. Se actualizaron ficha e índice; no se comprobó pago ni se presentó reclamación.
+
+## [2026-10-16] mantenimiento | Integración de jurisprudencia y nuevas fichas
+
+Se integraron los hallazgos ya verificados en la ficha del caso penitenciario y el análisis del dictamen. Se precisó que el balance de tres requisitos corresponde al criterio anterior y se unificó la entrada jurisprudencial del índice. Se incorporaron al índice el caso del incendio y su tarea, con enlaces recíprocos, fecha normalizada y estado sin confirmar. No se atribuyó al alumno trabajo, entrega o revisión no documentados. Se revisaron los enlaces locales; los originales de fuentes se conservaron.
