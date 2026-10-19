@@ -56,3 +56,7 @@ Actualizado: 2026-10-16.
 - [Incendio en garaje: defensa del causante](paginas/Caso%20Incendio%20en%20Garaje%20defensa%20del%20causante.md): diligencias previas 389/2026, en instrucción según la ficha; vinculado al encargo de recurso sobre la pericial.
 
 - [Caso FP 73.804 y FP 81.668](paginas/Caso%20FP%2073.804%20y%20FP%2081.668.md): asunto penal de funcionarios del Centro Penitenciario de Zuera, en ejecución según la ficha; estudio de una posible reclamación a la Administración. Su inclusión en la memoria aún no se ha decidido.
+
+- [Querella Renfe contra cliente por el art. 253 CP](paginas/Caso%20Querella%20Renfe%20contra%20cliente%20art.%20253%20CP.md): querella por presunta apropiación indebida relacionada con la comercialización de billetes; archivada provisionalmente y recurrida según la ficha.
+
+- [Estafa en venta de camiones de segunda mano por internet](paginas/Caso%20estafa%20venta%20de%20camiones%202%C2%AA%20mano%20por%20internet%20%28Mil%20anuncios%29..md): presunta estafa en una operación de leasing; la ficha registra un auto de admisión de 2025-12-05.
