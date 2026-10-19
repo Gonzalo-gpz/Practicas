@@ -1,7 +1,7 @@
 # Recurso de Reforma y subsidiario de Apelación
 
 Fecha de creación: 2026-10-16.
-Última actualización: 2026-10-16.
+Última actualización: 2026-10-19.
 
 ## Datos del encargo
 
@@ -11,7 +11,7 @@ Fecha de creación: 2026-10-16.
 - Quién me lo encarga: Juan Monclús (hijo)
 - Caso relacionado: [Caso del incendio en garaje](Caso%20Incendio%20en%20Garaje%20defensa%20del%20causante.md).
 - Fecha de entrega acordada:
-- Estado: pendiente de concretar; no consta entrega ni revisión.
+- Estado: escrito disponible, fechado el 2026-10-19; entrega, revisión y presentación pendientes de acreditar.
 
 ## Qué me han pedido
 
@@ -28,10 +28,10 @@ Conserva solo la línea que corresponda y complétala:
 
 ## Resultado y revisión
 
-- Resultado obtenido o documento entregado:
+- Resultado obtenido o documento entregado: PDF del recurso incorporado; no consta entrega al tutor ni presentación.
 - Fecha de realización y entrega:
 - Quién lo revisó y qué correcciones indicó:
-- Qué queda pendiente:
+- Qué queda pendiente: confirmar revisión, entrega y presentación; aclarar «3535_26» en el nombre frente a 389/2026 en el escrito.
 - Tiempo dedicado:
 
 ## Qué he aprendido
@@ -41,5 +41,6 @@ He aprendido a redactar dicho recurso cumpliendo con los requisitos legales
 ## Documentos y enlaces
 
 [Caso del incendio en garaje](Caso%20Incendio%20en%20Garaje%20defensa%20del%20causante.md)
-
+- [Recurso censurado de 2026-10-19](../fuentes/20261019_Recurso%20de%20Reforma%20expediente%203535_26_Censurado2.pdf).
+- [Ficha de la fuente y diferencia de numeración](fuente-recurso-pericial-incendio.md).
 - [Índice de la wiki](../indice.md).

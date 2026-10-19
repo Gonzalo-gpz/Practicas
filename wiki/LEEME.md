@@ -23,3 +23,7 @@ Las plantillas de tareas y casos utilizan campos vacíos para tus respuestas. Re
 La wiki incluye el contexto de la memoria, su modelo de referencia, la [tarea de oposición a un recurso](paginas/Escrito%20de%20oposici%C3%B3n%20recurso.md), el [caso de los funcionarios de prisiones](paginas/Caso%20FP%2073.804%20y%20FP%2081.668.md) y la [búsqueda del dictamen del Consejo de Estado](paginas/localizacion-dictamen-consejo-de-estado.md). Las fichas de trabajo se enlazan desde el índice. Los documentos judiciales siguen pendientes de incorporar; el dictamen ya dispone de enlace al BOE en la ficha de su búsqueda.
 
 La organización concreta de carpetas, los estados y las plantillas son decisiones de esta implementación. La referencia de partida es el [documento de Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f#file-llm-wiki-md).
+
+## Consultas guardadas
+
+El [catálogo de consultas](consultas/indice.md) permite recuperar respuestas de investigación y preparación académica. Los análisis anteriores mantienen su ubicación y se enlazan desde ese catálogo. Las nuevas consultas sustantivas se conservarán allí o actualizarán el análisis correspondiente.

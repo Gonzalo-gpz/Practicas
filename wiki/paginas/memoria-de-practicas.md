@@ -1,6 +1,6 @@
 # Memoria de prácticas del máster de abogacía
 
-Actualización: 2026-10-15. Estado: indicaciones académicas incorporadas; discrepancias pendientes de aclaración.
+Actualización: 2026-10-19. Estado: indicaciones académicas incorporadas; discrepancias pendientes de aclaración.
 
 ## Finalidad de la wiki
 
@@ -105,3 +105,13 @@ Límite de tres asuntos y selección posterior comunicados por el usuario el 202
 - [Primera tarea registrada](Escrito%20de%20oposici%C3%B3n%20recurso.md).
 - [Plantilla de tareas](../plantillas/%7B%7Btitle%7D%7D%20-%20Tarea..md).
 - [Plantilla de casos](../plantillas/caso-juridico.md).
+
+## Preparación del índice y de la entrevista
+
+- [Borrador de índice y desarrollo del punto 3](preparacion-primera-entrevista.md): propuesta para enviar antes del jueves 22 y preparar la entrevista del viernes 23; asuntos y estado pendientes de validación personal. No consta envío.
+
+## Actualización de procura y documentación del recurso
+
+El alumno registra dos actividades previstas para noviembre con la procuradora Ana Silvia Tizón Ibáñez: [asistencia a un lanzamiento](Caso%20Procuradora%20-%20Lanzamiento%20de%20inquilino.md) y [acompañamiento durante varias jornadas en los juzgados](Caso%20Procuradora%20-%20acompa%C3%B1aremos%20a%20la%20procuradora%20durante%20varias%20jornadas%20en%20los%20juzgados%20para%20aprender%20sus%20funciones%20en%20los%20mismos..md). Consta planificación, no realización. Falta concretar fechas y duración y confirmar cómo cubren la estancia exigida; no se presume una exención ni cumplimiento completo.
+
+Se incorpora la [ficha del recurso sobre la pericial del incendio](fuente-recurso-pericial-incendio.md), con escrito fechado el 2026-10-19. Su existencia permite concretar el material del asunto candidato, pero no acredita presentación ni correcciones del tutor.

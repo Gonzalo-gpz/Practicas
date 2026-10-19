@@ -1,6 +1,6 @@
 # Índice de la wiki
 
-Actualizado: 2026-10-16.
+Actualizado: 2026-10-19.
 
 ## Inicio y funcionamiento
 
@@ -16,6 +16,8 @@ Actualizado: 2026-10-16.
 - Borrador de índice: enviar antes del jueves 2026-10-22; prever el envío como máximo el día 21. Preparar asuntos del apartado a.3 para la entrevista.
 
 ## Fuentes y conocimiento
+
+- [Recurso sobre la pericial del incendio: ficha de fuente](paginas/fuente-recurso-pericial-incendio.md): contenido, fechas, enlace al PDF y diferencia de numeración entre nombre y texto.
 
 - [Correos con el tutor académico](paginas/correos-tutor-academico.md): convocatoria, plazo del índice, enlace de conexión y estructura de cinco apartados.
 
@@ -39,7 +41,7 @@ Actualizado: 2026-10-16.
 
 ## Tareas de prácticas
 
-- [Recurso de reforma y subsidiario de apelación](paginas/Recurso%20de%20Reforma%20y%20subsidiario%20de%20Apelación.md): encargo del 2026-10-16 relativo a la denegación de una nueva pericial médico-forense en el caso del incendio; estado y entrega pendientes de concretar.
+- [Recurso de reforma y subsidiario de apelación](paginas/Recurso%20de%20Reforma%20y%20subsidiario%20de%20Apelación.md): encargo del 2026-10-16 relativo a la denegación de una nueva pericial médico-forense en el caso del incendio; PDF fechado el 2026-10-19 incorporado; revisión, entrega y presentación pendientes de acreditar.
 
 - [Localización del dictamen 522/1991 del Consejo de Estado](paginas/localizacion-dictamen-consejo-de-estado.md): búsqueda, lectura y subrayado; completada el 2026-10-15, con una hora de dedicación registrada, enlace al BOE incorporado y vinculación al caso de los funcionarios de prisiones.
 
@@ -60,3 +62,18 @@ Actualizado: 2026-10-16.
 - [Querella Renfe contra cliente por el art. 253 CP](paginas/Caso%20Querella%20Renfe%20contra%20cliente%20art.%20253%20CP.md): querella por presunta apropiación indebida relacionada con la comercialización de billetes; archivada provisionalmente y recurrida según la ficha.
 
 - [Estafa en venta de camiones de segunda mano por internet](paginas/Caso%20estafa%20venta%20de%20camiones%202%C2%AA%20mano%20por%20internet%20%28Mil%20anuncios%29..md): presunta estafa en una operación de leasing; la ficha registra un auto de admisión de 2025-12-05.
+
+## Preparación del índice y de la entrevista
+
+- [Índice provisional para el tutor académico](paginas/indice-provisional-para-tutor-academico.md): versión independiente con subapartados de tareas, competencias, aprendizajes y evaluación, además de los asuntos y las actividades de procura previstas.
+
+- [Borrador de índice y desarrollo del punto 3](paginas/preparacion-primera-entrevista.md): propuesta para enviar antes del jueves 22 y preparar la entrevista del viernes 23; asuntos y estado pendientes de validación personal. No consta envío.
+
+## Actividades de procura previstas
+
+- [Asistencia a un lanzamiento](paginas/Caso%20Procuradora%20-%20Lanzamiento%20de%20inquilino.md): prevista para noviembre de 2026; fecha y asistencia pendientes.
+- [Acompañamiento en los juzgados](paginas/Caso%20Procuradora%20-%20acompa%C3%B1aremos%20a%20la%20procuradora%20durante%20varias%20jornadas%20en%20los%20juzgados%20para%20aprender%20sus%20funciones%20en%20los%20mismos..md): varias jornadas previstas en noviembre con la procuradora; fechas y duración pendientes.
+
+## Consultas y respuestas
+
+- [Catálogo de consultas](consultas/indice.md): preguntas jurídicas y académicas con enlaces a sus respuestas, fuentes y cuestiones pendientes.

@@ -1,6 +1,6 @@
 # Preguntas pendientes
 
-Actualización: 2026-10-16. Estado: indicaciones académicas incorporadas; aclaraciones pendientes.
+Actualización: 2026-10-19. Estado: indicaciones académicas incorporadas; aclaraciones pendientes.
 
 ## Finalidad aclarada
 
@@ -18,7 +18,7 @@ La wiki servirá para elaborar la memoria de las prácticas en el despacho y pre
 - Completar grupo y ubicación de la entidad en la portada y registrar la fecha efectiva de presentación (fin del plazo: 2026-12-11); nombre del alumno, curso académico y tutores ya están confirmados en la [memoria de referencia](memoria-de-referencia.md#datos-confirmados-para-la-portada-propia). Registrar la experiencia propia de procura para el apartado VI del índice.
 
 - Enviar el borrador del índice antes del jueves 2026-10-22 (preverlo como máximo el día 21), registrar el envío y confirmar el acuse separado de la convocatoria. Preparar los asuntos del apartado a.3.
-- Organizar la estancia de aproximadamente una semana con procurador o confirmar la exención descrita en la guía; no consta la situación del usuario.
+- Concretar fechas y duración de las jornadas con procuradora y del lanzamiento previstos para noviembre; comprobar su cobertura de la estancia exigida. No consta asistencia realizada.
 - Recabar consentimiento del tutor profesional para el material adicional y dar seguimiento a su informe, con plazo hasta el 2026-12-11.
 
 - Aclarar la estructura de cinco apartados de la convocatoria frente a los seis contenidos del PDF general y el índice del modelo elegido. La convalidación de Prácticas I comunicada por el alumno no acredita exención de procura en Prácticas II.
@@ -44,4 +44,6 @@ La wiki servirá para elaborar la memoria de las prácticas en el despacho y pre
 Obtener certificación de firmeza y seguimiento de recursos de las sentencias 124/2017 del Juzgado Central n.º 1 y 136/2025 del TSJ de Extremadura (PO 320/2024); localizar el texto íntegro de la 144/2015 del Juzgado Central n.º 5 si se pretende utilizarla. Véase [búsqueda jurisprudencial](sentencias-indemnidad-funcionarios-penitenciarios.md).
 
 - Contrastar el expediente de Zuera con el fundamento de funcionamiento anormal de la STS de 2011-10-07; no consta acreditada una deficiencia del servicio en la documentación incorporada.
-- Completar estado, fecha de entrega y revisión del [recurso sobre la pericial del incendio](Recurso%20de%20Reforma%20y%20subsidiario%20de%20Apelación.md), y aportar la providencia y el borrador si se desean analizar.
+- Completar estado, fecha de entrega y revisión del [recurso sobre la pericial del incendio](Recurso%20de%20Reforma%20y%20subsidiario%20de%20Apelación.md), y aportar la providencia original; el PDF del recurso de 2026-10-19 ya está incorporado.
+
+- Aclarar la numeración «3535_26» del nombre del PDF frente a diligencias 389/2026 en su cuerpo; véase [ficha del recurso](fuente-recurso-pericial-incendio.md).

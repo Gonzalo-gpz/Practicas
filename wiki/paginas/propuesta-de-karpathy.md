@@ -19,3 +19,7 @@ La [guía](../LEEME.md) explica cómo empezar y las [instrucciones](../AGENTS.md
 
 - [Índice](../indice.md).
 - [Preguntas pendientes](preguntas-pendientes.md).
+
+## Organización de las consultas
+
+Revisión: 2026-10-19. La propuesta recomienda conservar respuestas útiles, sin imponer un nombre de carpeta. Inicialmente se guardaron esos análisis en paginas y faltó un acceso específico para consultas. Se incorpora [consultas/indice.md](../consultas/indice.md) para hacerlas visibles, sin duplicar los análisis existentes.

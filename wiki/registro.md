@@ -105,3 +105,31 @@ Se amplió la búsqueda sin exigir cita al dictamen 522/1991 y se incorporó la 
 ## [2026-10-16] mantenimiento | Integración de jurisprudencia y nuevas fichas
 
 Se integraron los hallazgos ya verificados en la ficha del caso penitenciario y el análisis del dictamen. Se precisó que el balance de tres requisitos corresponde al criterio anterior y se unificó la entrada jurisprudencial del índice. Se incorporaron al índice el caso del incendio y su tarea, con enlaces recíprocos, fecha normalizada y estado sin confirmar. No se atribuyó al alumno trabajo, entrega o revisión no documentados. Se revisaron los enlaces locales; los originales de fuentes se conservaron.
+
+## [2026-10-19] preparación | Índice y primera entrevista
+
+Se creó paginas/preparacion-primera-entrevista.md con el índice del modelo elegido, correspondencia con los cinco contenidos del correo y propuesta de desarrollo del punto a.3 mediante tres asuntos candidatos. Se diferenciaron actuaciones documentadas, encargos y resultados pendientes; no se cerró la selección ni se atribuyó al alumno toda la investigación asistida. Se enlazó desde índice y memoria. Se recordó la redacción del plazo antes del jueves 22 y se propuso envío el miércoles 21. No se envió ningún correo.
+
+## [2026-10-19] fuentes y enlaces | Recurso del incendio y actividades de procura
+
+Se leyeron las dos páginas del nuevo PDF y se revisaron visualmente. Se creó la ficha fuente-recurso-pericial-incendio.md, se sustituyó el enlace wiki al PDF por enlace relativo y se actualizaron caso, tarea, índice, memoria, preparación de entrevista y pendientes. Se distinguió la fecha del escrito de la presentación no acreditada y se registró la discrepancia 3535_26/389/2026. Se incorporaron al índice las dos fichas de procura y sus enlaces recíprocos como actividades previstas, sin acreditar asistencia. Se conservaron los originales y los datos aportados por el alumno.
+
+## [2026-10-19] índice académico | Versión independiente para remitir
+
+Se creó paginas/indice-provisional-para-tutor-academico.md con los siete apartados del modelo, precisión del recurso del incendio y subapartados de procura. Se mantuvieron la selección provisional de asuntos y el carácter futuro de las actividades de noviembre. Se sincronizó el índice en la preparación de entrevista y se enlazó desde el índice general. No se envió al tutor.
+
+## [2026-10-19] organización | Carpeta de consultas
+
+Se contrastó el texto principal de Karpathy: conservar respuestas es una operación propuesta, sin estructura de carpetas obligatoria. A raíz de la observación del usuario se creó consultas/indice.md con enlaces a los análisis jurídicos y la preparación académica existentes. Se actualizaron instrucciones, guía, índice general y ficha de la propuesta, sin duplicar ni mover contenido.
+
+## [2026-10-19] índice académico | Subapartados II, III, V y VII
+
+Se ampliaron los apartados solicitados a partir de las tareas y casos registrados, conservando los siete títulos principales y los dos bloques del apartado II. Se sincronizaron el índice para el tutor y el guion de entrevista, y se actualizó su descripción en el índice general. Las valoraciones y propuestas quedan como líneas de desarrollo; no se atribuyen departamentos formales ni evaluaciones no comunicadas. No se envió el borrador.
+
+## [2026-10-19] índice académico | Simplificación del apartado II
+
+Por indicación del alumno se eliminaron los niveles i.1–i.5 y ii.1–ii.2 del apartado II en ambas versiones del índice. Se conservaron únicamente los subapartados i y ii.
+
+## [2026-10-19] índice académico | Numeración de los subapartados del II
+
+Se sustituyeron i y ii por 1 y 2 en el índice provisional para el tutor y en la preparación de la entrevista, manteniendo los títulos y los dos niveles.
