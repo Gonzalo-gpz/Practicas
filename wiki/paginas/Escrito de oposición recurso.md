@@ -76,18 +76,18 @@ Identifica los asuntos y las personas mediante códigos o iniciales. Conserva la
 
 ### Preparación
 
-| Variable | Datos |
-| --- | --- |
-| Tipo de escrito | [Demanda / contestación / recurso / otro] |
-| Órgano destinatario | [Denominación según el expediente] |
-| Procedimiento y expediente | [Datos] |
-| Parte para la que se prepara | [Código y posición procesal] |
-| Objeto del escrito | [Descripción] |
-| Pretensiones o peticiones indicadas | [Datos] |
-| Modelo o instrucciones del despacho | [Referencia] |
-| Documentación recibida y pendiente | [Relación] |
-| Plazo procesal comunicado, si existe | [Dato, origen y responsable de su comprobación] |
-| Fecha de entrega interna del borrador | [AAAA-MM-DD] |
+| Variable                              | Datos                                           |
+| ------------------------------------- | ----------------------------------------------- |
+| Tipo de escrito                       | recurso                                         |
+| Órgano destinatario                   | [Denominación según el expediente]              |
+| Procedimiento y expediente            | [Datos]                                         |
+| Parte para la que se prepara          | [Código y posición procesal]                    |
+| Objeto del escrito                    | [Descripción]                                   |
+| Pretensiones o peticiones indicadas   | [Datos]                                         |
+| Modelo o instrucciones del despacho   | [Referencia]                                    |
+| Documentación recibida y pendiente    | [Relación]                                      |
+| Plazo procesal comunicado, si existe  | [Dato, origen y responsable de su comprobación] |
+| Fecha de entrega interna del borrador | [AAAA-MM-DD]                                    |
 
 ### Contenido trabajado
 
@@ -200,7 +200,7 @@ Ejemplo de título: «Consulta al Departamento de Urbanismo del Ayuntamiento sob
 
 - Documentos utilizados y producidos: expediente completo mencionado en el encargo; ubicación del expediente y del escrito pendiente de indicar.
 - Fuentes consultadas: no se han identificado resoluciones ni fuentes concretas en esta nota.
-- Caso relacionado: pendiente de indicar el código y crear o localizar su ficha.
+- Caso relacionado: [[Caso Querella Renfe contra cliente art. 253 CP]]
 - Modelo de escrito mencionado en los aprendizajes: ubicación pendiente de indicar.
 - [Plantilla de tareas de prácticas](../plantillas/%7B%7Btitle%7D%7D%20-%20Tarea..md).
 - [Plantilla de caso jurídico](../plantillas/caso-juridico.md).
