@@ -9,7 +9,7 @@ Fecha de creación: 2026-10-16.
 - Fecha del encargo: 2026-10-16
 - Tipo de tarea: redacción de escrito de recurso de reforma y subsidiario de Apelación.
 - Quién me lo encarga: Juan Monclús (hijo)
-- Caso relacionado: [Caso del incendio en garaje](Caso%20Incendio%20en%20Garaje%20defensa%20del%20causante.md).
+- Caso relacionado: [Caso del incendio en garaje](../casos/Caso%20Incendio%20en%20Garaje%20defensa%20del%20causante.md).
 - Fecha de entrega acordada:
 - Estado: escrito disponible, fechado el 2026-10-19; entrega, revisión y presentación pendientes de acreditar.
 
@@ -40,7 +40,7 @@ He aprendido a redactar dicho recurso cumpliendo con los requisitos legales
 
 ## Documentos y enlaces
 
-[Caso del incendio en garaje](Caso%20Incendio%20en%20Garaje%20defensa%20del%20causante.md)
-- [Recurso censurado de 2026-10-19](../fuentes/20261019_Recurso%20de%20Reforma%20expediente%203535_26_Censurado2.pdf).
-- [Ficha de la fuente y diferencia de numeración](fuente-recurso-pericial-incendio.md).
-- [Índice de la wiki](../indice.md).
+[Caso del incendio en garaje](../casos/Caso%20Incendio%20en%20Garaje%20defensa%20del%20causante.md)
+- [Recurso censurado de 2026-10-19](../../fuentes/20261019_Recurso%20de%20Reforma%20expediente%203535_26_Censurado2.pdf).
+- [Ficha de la fuente y diferencia de numeración](../fuente-recurso-pericial-incendio.md).
+- [Índice de la wiki](../../indice.md).

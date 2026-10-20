@@ -20,7 +20,9 @@ Para revisarla: «Revisa mi wiki siguiendo wiki/AGENTS.md, corrige los enlaces y
 
 Las plantillas de tareas y casos utilizan campos vacíos para tus respuestas. Rellena solo lo que corresponda; utiliza «No consta», «Pendiente» o «No procede» cuando lo necesites. En Obsidian, nombra primero una nota nueva e inserta después la plantilla: las variables de título y fecha se completarán al insertarla. La fecha de última actualización debe cambiarse manualmente en revisiones posteriores. Las fechas de encargos, actuaciones y resoluciones se consignan según sus documentos, no con la fecha automática de creación.
 
-La wiki incluye el contexto de la memoria, su modelo de referencia, la [tarea de oposición a un recurso](paginas/Escrito%20de%20oposici%C3%B3n%20recurso.md), el [caso de los funcionarios de prisiones](paginas/Caso%20FP%2073.804%20y%20FP%2081.668.md) y la [búsqueda del dictamen del Consejo de Estado](paginas/localizacion-dictamen-consejo-de-estado.md). Las fichas de trabajo se enlazan desde el índice. Los documentos judiciales siguen pendientes de incorporar; el dictamen ya dispone de enlace al BOE en la ficha de su búsqueda.
+Guarda las fichas de casos en `paginas/casos` y las fichas de tareas en `paginas/tareas`. Las páginas de contexto, análisis y fuentes permanecen directamente en `paginas`.
+
+La wiki incluye el contexto de la memoria, su modelo de referencia, la [tarea de oposición a un recurso](paginas/tareas/Escrito%20de%20oposici%C3%B3n%20recurso.md), el [caso de los funcionarios de prisiones](paginas/casos/Caso%20FP%2073.804%20y%20FP%2081.668.md) y la [búsqueda del dictamen del Consejo de Estado](paginas/tareas/localizacion-dictamen-consejo-de-estado.md). Las fichas de trabajo se enlazan desde el índice. Los documentos judiciales siguen pendientes de incorporar; el dictamen ya dispone de enlace al BOE en la ficha de su búsqueda.
 
 La organización concreta de carpetas, los estados y las plantillas son decisiones de esta implementación. La referencia de partida es el [documento de Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f#file-llm-wiki-md).
 

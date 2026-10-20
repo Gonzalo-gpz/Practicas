@@ -30,10 +30,10 @@ La wiki servirá para elaborar la memoria de las prácticas en el despacho y pre
 
 - [Indicaciones del tutor académico](indicaciones-tutor-academico.md): documento completo, fechas, requisitos y discrepancias.
 
-- [Caso de los funcionarios de prisiones](Caso%20FP%2073.804%20y%20FP%2081.668.md): completar código y número de procedimiento, documentos judiciales, inadmisión de casación, insolvencia y documentación para estudiar plazos y cuantificación. La reforma ya se identifica como Ley Orgánica 4/2026. La vía de reclamación permanece en estudio.
-- [Localización del dictamen 522/1991](localizacion-dictamen-consejo-de-estado.md): enlace del BOE ya incorporado. Completar fecha del encargo y persona que lo encargó, si se conocen; texto íntegro verificado y [análisis preparatorio incorporado](analisis-dictamen-522-1991.md).
+- [Caso de los funcionarios de prisiones](casos/Caso%20FP%2073.804%20y%20FP%2081.668.md): completar código y número de procedimiento, documentos judiciales, inadmisión de casación, insolvencia y documentación para estudiar plazos y cuantificación. La reforma ya se identifica como Ley Orgánica 4/2026. La vía de reclamación permanece en estudio.
+- [Localización del dictamen 522/1991](tareas/localizacion-dictamen-consejo-de-estado.md): enlace del BOE ya incorporado. Completar fecha del encargo y persona que lo encargó, si se conocen; texto íntegro verificado y [análisis preparatorio incorporado](analisis-dictamen-522-1991.md).
 
-- [Tarea 001 — Escrito de oposición a recurso de reforma](Escrito%20de%20oposici%C3%B3n%20recurso.md): confirmar la fecha efectiva y completar la identificación del caso y las referencias documentales.
+- [Tarea 001 — Escrito de oposición a recurso de reforma](tareas/Escrito%20de%20oposici%C3%B3n%20recurso.md): confirmar la fecha efectiva y completar la identificación del caso y las referencias documentales.
 
 - [Guía de uso](../LEEME.md): alcance inicial de esta base.
 - [Propuesta de Karpathy](propuesta-de-karpathy.md).
@@ -44,6 +44,6 @@ La wiki servirá para elaborar la memoria de las prácticas en el despacho y pre
 Obtener certificación de firmeza y seguimiento de recursos de las sentencias 124/2017 del Juzgado Central n.º 1 y 136/2025 del TSJ de Extremadura (PO 320/2024); localizar el texto íntegro de la 144/2015 del Juzgado Central n.º 5 si se pretende utilizarla. Véase [búsqueda jurisprudencial](sentencias-indemnidad-funcionarios-penitenciarios.md).
 
 - Contrastar el expediente de Zuera con el fundamento de funcionamiento anormal de la STS de 2011-10-07; no consta acreditada una deficiencia del servicio en la documentación incorporada.
-- Completar estado, fecha de entrega y revisión del [recurso sobre la pericial del incendio](Recurso%20de%20Reforma%20y%20subsidiario%20de%20Apelación.md), y aportar la providencia original; el PDF del recurso de 2026-10-19 ya está incorporado.
+- Completar estado, fecha de entrega y revisión del [recurso sobre la pericial del incendio](tareas/Recurso%20de%20Reforma%20y%20subsidiario%20de%20Apelaci%C3%B3n.md), y aportar la providencia original; el PDF del recurso de 2026-10-19 ya está incorporado.
 
 - Aclarar la numeración «3535_26» del nombre del PDF frente a diligencias 389/2026 en su cuerpo; véase [ficha del recurso](fuente-recurso-pericial-incendio.md).

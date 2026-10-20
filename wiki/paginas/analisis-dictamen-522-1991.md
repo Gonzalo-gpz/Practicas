@@ -43,7 +43,7 @@ La ampliación de la búsqueda incorpora la STS de 2011-10-07, recurso 2675/2010
 
 ## 5. Aplicación provisional al caso FP 73.804 y FP 81.668
 
-Los siguientes datos proceden de la [ficha del usuario](Caso%20FP%2073.804%20y%20FP%2081.668.md), no de sentencias incorporadas: agresión durante un traslado, condena penal, indemnizaciones y declaración de insolvencia. La conclusión está condicionada a obtener los documentos.
+Los siguientes datos proceden de la [ficha del usuario](casos/Caso%20FP%2073.804%20y%20FP%2081.668.md), no de sentencias incorporadas: agresión durante un traslado, condena penal, indemnizaciones y declaración de insolvencia. La conclusión está condicionada a obtener los documentos.
 
 | Elemento que debe acreditarse para cada funcionario | Respaldo necesario | Situación en la wiki |
 | --- | --- | --- |
@@ -78,7 +78,7 @@ El 522/1991 es una referencia oficial verificada y útil para fundamentar la ind
 
 ## Páginas relacionadas
 
-- [Caso de los funcionarios de prisiones](Caso%20FP%2073.804%20y%20FP%2081.668.md).
-- [Tarea de localización](localizacion-dictamen-consejo-de-estado.md).
+- [Caso de los funcionarios de prisiones](casos/Caso%20FP%2073.804%20y%20FP%2081.668.md).
+- [Tarea de localización](tareas/localizacion-dictamen-consejo-de-estado.md).
 - [Preguntas pendientes](preguntas-pendientes.md).
 - [Índice](../indice.md).

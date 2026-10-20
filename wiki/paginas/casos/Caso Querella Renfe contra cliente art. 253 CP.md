@@ -54,4 +54,4 @@ Elimina este apartado cuando no corresponda.
 
 Enlaza los escritos, las resoluciones y las fuentes consultadas. Indica la página o el fundamento relevante cuando sea necesario.
 
-- [Índice de la wiki](../indice.md).
+- [Índice de la wiki](../../indice.md).

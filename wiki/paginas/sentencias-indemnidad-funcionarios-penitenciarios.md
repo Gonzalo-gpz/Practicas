@@ -76,6 +76,6 @@ Para cerrar el tercer requisito, obtener de la parte o del órgano judicial la d
 ## Páginas relacionadas
 
 - [Análisis del dictamen 522/1991](analisis-dictamen-522-1991.md).
-- [Caso FP 73.804 y FP 81.668](Caso%20FP%2073.804%20y%20FP%2081.668.md).
-- [Tarea de localización](localizacion-dictamen-consejo-de-estado.md).
+- [Caso FP 73.804 y FP 81.668](casos/Caso%20FP%2073.804%20y%20FP%2081.668.md).
+- [Tarea de localización](tareas/localizacion-dictamen-consejo-de-estado.md).
 - [Índice](../indice.md).

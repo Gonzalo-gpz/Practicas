@@ -194,7 +194,7 @@ Ejemplo de título: «Consulta al Departamento de Urbanismo del Ayuntamiento sob
 - Competencias ejercitadas: Investigación y redacción
 - Dificultades encontradas y cómo se resolvieron: el tutor profesional me indicó cómo redactarlo de la forma correcta.
 - Observaciones que aplicaré en futuros encargos: Ya tengo un modelo de plantilla.
-- Relación con otros casos, tareas o conceptos de la wiki: [Preguntas pendientes](preguntas-pendientes.md); ficha del caso pendiente de identificar.
+- Relación con otros casos, tareas o conceptos de la wiki: [Preguntas pendientes](../preguntas-pendientes.md); ficha del caso pendiente de identificar.
 
 ## 10. Referencias y páginas relacionadas
 
@@ -202,6 +202,6 @@ Ejemplo de título: «Consulta al Departamento de Urbanismo del Ayuntamiento sob
 - Fuentes consultadas: no se han identificado resoluciones ni fuentes concretas en esta nota.
 - Caso relacionado: [[Caso Querella Renfe contra cliente art. 253 CP]]
 - Modelo de escrito mencionado en los aprendizajes: ubicación pendiente de indicar.
-- [Plantilla de tareas de prácticas](../plantillas/%7B%7Btitle%7D%7D%20-%20Tarea..md).
-- [Plantilla de caso jurídico](../plantillas/caso-juridico.md).
-- [Índice de la wiki](../indice.md).
+- [Plantilla de tareas de prácticas](../../plantillas/%7B%7Btitle%7D%7D%20-%20Tarea..md).
+- [Plantilla de caso jurídico](../../plantillas/caso-juridico.md).
+- [Índice de la wiki](../../indice.md).

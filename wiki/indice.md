@@ -19,6 +19,8 @@ Actualizado: 2026-10-19.
 
 - [Recurso sobre la pericial del incendio: ficha de fuente](paginas/fuente-recurso-pericial-incendio.md): contenido, fechas, enlace al PDF y diferencia de numeración entre nombre y texto.
 
+- [Sentencia AP Zaragoza 333/2026 (PDF)](fuentes/S%20APZ%207_9_2026.pdf): resolución estudiada en la tarea de búsqueda sobre una estafa en la venta de un teléfono por Wallapop.
+
 - [Correos con el tutor académico](paginas/correos-tutor-academico.md): convocatoria, plazo del índice, enlace de conexión y estructura de cinco apartados.
 
 - [Indicaciones del tutor académico](paginas/indicaciones-tutor-academico.md): requisitos, entrega, procura, calendario, evaluación y discrepancias de la rúbrica.
@@ -41,11 +43,13 @@ Actualizado: 2026-10-19.
 
 ## Tareas de prácticas
 
-- [Recurso de reforma y subsidiario de apelación](paginas/Recurso%20de%20Reforma%20y%20subsidiario%20de%20Apelación.md): encargo del 2026-10-16 relativo a la denegación de una nueva pericial médico-forense en el caso del incendio; PDF fechado el 2026-10-19 incorporado; revisión, entrega y presentación pendientes de acreditar.
+- [Recurso de reforma y subsidiario de apelación](paginas/tareas/Recurso%20de%20Reforma%20y%20subsidiario%20de%20Apelaci%C3%B3n.md): encargo del 2026-10-16 relativo a la denegación de una nueva pericial médico-forense en el caso del incendio; PDF fechado el 2026-10-19 incorporado; revisión, entrega y presentación pendientes de acreditar.
 
-- [Localización del dictamen 522/1991 del Consejo de Estado](paginas/localizacion-dictamen-consejo-de-estado.md): búsqueda, lectura y subrayado; completada el 2026-10-15, con una hora de dedicación registrada, enlace al BOE incorporado y vinculación al caso de los funcionarios de prisiones.
+- [Localización del dictamen 522/1991 del Consejo de Estado](paginas/tareas/localizacion-dictamen-consejo-de-estado.md): búsqueda, lectura y subrayado; completada el 2026-10-15, con una hora de dedicación registrada, enlace al BOE incorporado y vinculación al caso de los funcionarios de prisiones.
 
-- [Tarea 001 — Escrito de oposición a recurso de reforma](paginas/Escrito%20de%20oposici%C3%B3n%20recurso.md): tarea registrada como completada; pendientes de consignar la fecha efectiva, la entrega y las referencias del expediente.
+- [Tarea 001 — Escrito de oposición a recurso de reforma](paginas/tareas/Escrito%20de%20oposici%C3%B3n%20recurso.md): tarea registrada como completada; pendientes de consignar la fecha efectiva, la entrega y las referencias del expediente.
+
+- [Búsqueda de la sentencia AP Zaragoza 333/2026](paginas/tareas/B%C3%BAsqueda%20en%20bases%20de%20datos%20jur%C3%ADdicas%20de%20la%20sentencia%20AP%20Zaragoza%20333_2026%20de%207%20de%20septiembre%202026.md): búsqueda y lectura de la resolución; ficha y entrega pendientes de completar.
 
 ## Análisis jurídicos
 
@@ -55,13 +59,17 @@ Actualizado: 2026-10-19.
 
 ## Casos registrados
 
-- [Incendio en garaje: defensa del causante](paginas/Caso%20Incendio%20en%20Garaje%20defensa%20del%20causante.md): diligencias previas 389/2026, en instrucción según la ficha; vinculado al encargo de recurso sobre la pericial.
+- [Incendio en garaje: defensa del causante](paginas/casos/Caso%20Incendio%20en%20Garaje%20defensa%20del%20causante.md): diligencias previas 389/2026, en instrucción según la ficha; vinculado al encargo de recurso sobre la pericial.
 
-- [Caso FP 73.804 y FP 81.668](paginas/Caso%20FP%2073.804%20y%20FP%2081.668.md): asunto penal de funcionarios del Centro Penitenciario de Zuera, en ejecución según la ficha; estudio de una posible reclamación a la Administración. Su inclusión en la memoria aún no se ha decidido.
+- [Caso FP 73.804 y FP 81.668](paginas/casos/Caso%20FP%2073.804%20y%20FP%2081.668.md): asunto penal de funcionarios del Centro Penitenciario de Zuera, en ejecución según la ficha; estudio de una posible reclamación a la Administración. Su inclusión en la memoria aún no se ha decidido.
 
-- [Querella Renfe contra cliente por el art. 253 CP](paginas/Caso%20Querella%20Renfe%20contra%20cliente%20art.%20253%20CP.md): querella por presunta apropiación indebida relacionada con la comercialización de billetes; archivada provisionalmente y recurrida según la ficha.
+- [Querella Renfe contra cliente por el art. 253 CP](paginas/casos/Caso%20Querella%20Renfe%20contra%20cliente%20art.%20253%20CP.md): querella por presunta apropiación indebida relacionada con la comercialización de billetes; archivada provisionalmente y recurrida según la ficha.
 
-- [Estafa en venta de camiones de segunda mano por internet](paginas/Caso%20estafa%20venta%20de%20camiones%202%C2%AA%20mano%20por%20internet%20%28Mil%20anuncios%29..md): presunta estafa en una operación de leasing; la ficha registra un auto de admisión de 2025-12-05.
+- [Estafa en venta de camiones de segunda mano por internet](paginas/casos/Caso%20estafa%20venta%20de%20camiones%202%C2%AA%20mano%20por%20internet%20%28Mil%20anuncios%29..md): presunta estafa en una operación de leasing; la ficha registra un auto de admisión de 2025-12-05.
+
+- [Caso de estafa en venta por Wallapop](paginas/casos/Caso%20estafa%20venta%20en%20Wallapop.md): asunto estudiado mediante la sentencia AP Zaragoza 333/2026; relacionado con la tarea de búsqueda y el PDF de la resolución.
+
+- [Concurso de acreedores fraudulento y declaración improcedente de administrador de hecho](paginas/casos/Caso%20Concurso%20de%20acreedores%20fraudulento%20y%20declaraci%C3%B3n%20improcedente%20administrador%20de%20hecho..md): ficha inicial del caso; datos del procedimiento y fuentes pendientes de completar.
 
 ## Preparación del índice y de la entrevista
 
@@ -71,8 +79,8 @@ Actualizado: 2026-10-19.
 
 ## Actividades de procura previstas
 
-- [Asistencia a un lanzamiento](paginas/Caso%20Procuradora%20-%20Lanzamiento%20de%20inquilino.md): prevista para noviembre de 2026; fecha y asistencia pendientes.
-- [Acompañamiento en los juzgados](paginas/Caso%20Procuradora%20-%20acompa%C3%B1aremos%20a%20la%20procuradora%20durante%20varias%20jornadas%20en%20los%20juzgados%20para%20aprender%20sus%20funciones%20en%20los%20mismos..md): varias jornadas previstas en noviembre con la procuradora; fechas y duración pendientes.
+- [Asistencia a un lanzamiento](paginas/casos/Caso%20Procuradora%20-%20Lanzamiento%20de%20inquilino.md): prevista para noviembre de 2026; fecha y asistencia pendientes.
+- [Acompañamiento en los juzgados](paginas/casos/Caso%20Procuradora%20-%20acompa%C3%B1aremos%20a%20la%20procuradora%20durante%20varias%20jornadas%20en%20los%20juzgados%20para%20aprender%20sus%20funciones%20en%20los%20mismos..md): varias jornadas previstas en noviembre con la procuradora; fechas y duración pendientes.
 
 ## Consultas y respuestas
 

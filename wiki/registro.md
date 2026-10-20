@@ -133,3 +133,7 @@ Por indicación del alumno se eliminaron los niveles i.1–i.5 y ii.1–ii.2 del
 ## [2026-10-19] índice académico | Numeración de los subapartados del II
 
 Se sustituyeron i y ii por 1 y 2 en el índice provisional para el tutor y en la preparación de la entrevista, manteniendo los títulos y los dos niveles.
+
+## [2026-10-19] organización | Carpetas de casos y tareas
+
+Se trasladaron las ocho fichas de casos a `paginas/casos/` y las cuatro fichas de tareas a `paginas/tareas/`. Se actualizaron los enlaces relativos en las fichas, el índice general, la guía y las páginas relacionadas; se documentó la nueva estructura en `AGENTS.md` y `LEEME.md`. Se mantuvieron las páginas de análisis, contexto y fuentes en `paginas/`.

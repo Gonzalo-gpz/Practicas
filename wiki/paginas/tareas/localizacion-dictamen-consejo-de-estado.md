@@ -9,7 +9,7 @@ Fecha de creación: 2026-10-15.
 - Fecha del encargo: 
 - Tipo de tarea: búsqueda documental del dictamen 522/1991 del Consejo de Estado.
 - Quién me lo encarga:
-- Caso relacionado: [Caso FP 73.804 y FP 81.668](Caso%20FP%2073.804%20y%20FP%2081.668.md).
+- Caso relacionado: [Caso FP 73.804 y FP 81.668](../casos/Caso%20FP%2073.804%20y%20FP%2081.668.md).
 - Fecha de entrega acordada:
 - Estado: completada.
 
@@ -19,7 +19,7 @@ Localizar la resolución 522/91 del Consejo de Estado para la garantía de indem
 
 ## Qué he hecho
 
-Búsqueda a través del BOE, lectura y subrayado del dictamen, según el trabajo registrado por el usuario. El usuario ha incorporado el enlace del BOE en el apartado de documentos. En la revisión posterior se accedió al texto íntegro del BOE y se elaboró un [análisis para la reclamación](analisis-dictamen-522-1991.md).
+Búsqueda a través del BOE, lectura y subrayado del dictamen, según el trabajo registrado por el usuario. El usuario ha incorporado el enlace del BOE en el apartado de documentos. En la revisión posterior se accedió al texto íntegro del BOE y se elaboró un [análisis para la reclamación](../analisis-dictamen-522-1991.md).
 
 ## Resultado y revisión
 
@@ -35,10 +35,10 @@ Búsqueda a través del BOE de las resoluciones del Consejo de Estado. La garant
 
 ## Documentos y enlaces
 
-- [Caso FP 73.804 y FP 81.668](Caso%20FP%2073.804%20y%20FP%2081.668.md): funcionarios del Centro Penitenciario de Zuera.
+- [Caso FP 73.804 y FP 81.668](../casos/Caso%20FP%2073.804%20y%20FP%2081.668.md): funcionarios del Centro Penitenciario de Zuera.
 - [Dictamen 522/1991 del Consejo de Estado — BOE](https://www.boe.es/buscar/doc.php?id=CE-D-1991-522): enlace aportado por el usuario y texto íntegro verificado mediante consulta directa al BOE.
-- [Análisis del dictamen y aplicación al caso](analisis-dictamen-522-1991.md).
-- [Extracción del texto oficial](../fuentes/dictamen-522-1991-boe.txt).
-- [Preguntas pendientes](preguntas-pendientes.md).
+- [Análisis del dictamen y aplicación al caso](../analisis-dictamen-522-1991.md).
+- [Extracción del texto oficial](../../fuentes/dictamen-522-1991-boe.txt).
+- [Preguntas pendientes](../preguntas-pendientes.md).
 
-- [Índice de la wiki](../indice.md).
+- [Índice de la wiki](../../indice.md).

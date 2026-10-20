@@ -57,6 +57,6 @@ Elimina este apartado cuando no corresponda.
 Enlaza los escritos, las resoluciones y las fuentes consultadas. Indica la página o el fundamento relevante cuando sea necesario.
 
 - [Acompañamiento a la procuradora en los juzgados](Caso%20Procuradora%20-%20acompa%C3%B1aremos%20a%20la%20procuradora%20durante%20varias%20jornadas%20en%20los%20juzgados%20para%20aprender%20sus%20funciones%20en%20los%20mismos..md).
-- [Memoria de prácticas](memoria-de-practicas.md): apartado de procura.
-- [Preparación de la entrevista](preparacion-primera-entrevista.md).
-- [Índice de la wiki](../indice.md).
+- [Memoria de prácticas](../memoria-de-practicas.md): apartado de procura.
+- [Preparación de la entrevista](../preparacion-primera-entrevista.md).
+- [Índice de la wiki](../../indice.md).

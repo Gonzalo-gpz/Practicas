@@ -49,26 +49,26 @@ Elimina este apartado cuando no corresponda.
 
 ## Mi trabajo y aprendizaje
 
-- Tareas realizadas: [Localización del dictamen 522/1991 del Consejo de Estado](localizacion-dictamen-consejo-de-estado.md).
+- Tareas realizadas: [Localización del dictamen 522/1991 del Consejo de Estado](../tareas/localizacion-dictamen-consejo-de-estado.md).
 - Cuestión jurídica estudiada y aprendizaje: estudio del expediente completo, desde los documentos elaborados por los funcionarios describiendo el incidente, informes forenses, declaración de incapacidad para todo tipo de trabajo de uno de los funcionarios, diligencias de ordenación, autos y finalmente las sentencias en las distintas instancias de los juzgados.
 
 ## Documentos y referencias
 
 Enlaza los escritos, las resoluciones y las fuentes consultadas. Indica la página o el fundamento relevante cuando sea necesario.
 
-- [Tarea de búsqueda del dictamen del Consejo de Estado](localizacion-dictamen-consejo-de-estado.md): completada el 2026-10-15; [enlace al dictamen en el BOE](https://www.boe.es/buscar/doc.php?id=CE-D-1991-522) incorporado por el usuario.
+- [Tarea de búsqueda del dictamen del Consejo de Estado](../tareas/localizacion-dictamen-consejo-de-estado.md): completada el 2026-10-15; [enlace al dictamen en el BOE](https://www.boe.es/buscar/doc.php?id=CE-D-1991-522) incorporado por el usuario.
 - Sentencia 266/2024 de la Audiencia Provincial de Zaragoza, sección 3.ª, de 2024-07-24: referencia consignada por el usuario; documento pendiente.
 - Sentencia 79/2024 del Tribunal Superior de Justicia de Aragón, de 2024-11-06: referencia consignada por el usuario; documento pendiente.
 - Inadmisión de casación y declaración de insolvencia: faltan fecha, identificación y documentos de respaldo.
 - Reforma del artículo 80 citada en la ficha: identificada como Ley Orgánica 4/2026, de 13 de octubre, BOE-A-2026-21317. Su aplicación al caso y la vía de reclamación siguen pendientes de análisis; no se consideran conclusiones verificadas por esta revisión.
-- [Preguntas pendientes](preguntas-pendientes.md).
+- [Preguntas pendientes](../preguntas-pendientes.md).
 
-- [Índice de la wiki](../indice.md).
+- [Índice de la wiki](../../indice.md).
 
 ## Análisis jurídico incorporado
 
-- [Dictamen 522/1991 y reclamación de indemnidad](analisis-dictamen-522-1991.md): texto verificado, contraste con 538/1996 y 7/2024 y reforma de 2026.
+- [Dictamen 522/1991 y reclamación de indemnidad](../analisis-dictamen-522-1991.md): texto verificado, contraste con 538/1996 y 7/2024 y reforma de 2026.
 - La referencia anterior a «responsable subsidiaria» expresa la idea inicial del encargo: debe distinguirse del resarcimiento por relación funcionarial. No consta en la wiki una condena civil subsidiaria de la Administración.
 - La reforma mencionada ya está identificada: [Ley Orgánica 4/2026](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-21317), vigente desde el 2026-10-15. Su aplicación temporal a estos hechos sigue en estudio.
 
-- [Sentencias sobre indemnidad penitenciaria](sentencias-indemnidad-funcionarios-penitenciarios.md): tres resultados favorables identificados y fallos anulados. La STS de 2011-10-07 examina funcionamiento anormal del servicio; falta comprobar si el expediente de Zuera acredita una deficiencia comparable. No se deduce esa deficiencia del mero hecho de la agresión.
+- [Sentencias sobre indemnidad penitenciaria](../sentencias-indemnidad-funcionarios-penitenciarios.md): tres resultados favorables identificados y fallos anulados. La STS de 2011-10-07 examina funcionamiento anormal del servicio; falta comprobar si el expediente de Zuera acredita una deficiencia comparable. No se deduce esa deficiencia del mero hecho de la agresión.

@@ -102,7 +102,7 @@ Límite de tres asuntos y selección posterior comunicados por el usuario el 202
 - [Memoria de referencia: portada e índice](memoria-de-referencia.md).
 - [Índice de la wiki](../indice.md).
 - [Preguntas pendientes](preguntas-pendientes.md).
-- [Primera tarea registrada](Escrito%20de%20oposici%C3%B3n%20recurso.md).
+- [Primera tarea registrada](tareas/Escrito%20de%20oposici%C3%B3n%20recurso.md).
 - [Plantilla de tareas](../plantillas/%7B%7Btitle%7D%7D%20-%20Tarea..md).
 - [Plantilla de casos](../plantillas/caso-juridico.md).
 
@@ -112,6 +112,6 @@ Límite de tres asuntos y selección posterior comunicados por el usuario el 202
 
 ## Actualización de procura y documentación del recurso
 
-El alumno registra dos actividades previstas para noviembre con la procuradora Ana Silvia Tizón Ibáñez: [asistencia a un lanzamiento](Caso%20Procuradora%20-%20Lanzamiento%20de%20inquilino.md) y [acompañamiento durante varias jornadas en los juzgados](Caso%20Procuradora%20-%20acompa%C3%B1aremos%20a%20la%20procuradora%20durante%20varias%20jornadas%20en%20los%20juzgados%20para%20aprender%20sus%20funciones%20en%20los%20mismos..md). Consta planificación, no realización. Falta concretar fechas y duración y confirmar cómo cubren la estancia exigida; no se presume una exención ni cumplimiento completo.
+El alumno registra dos actividades previstas para noviembre con la procuradora Ana Silvia Tizón Ibáñez: [asistencia a un lanzamiento](casos/Caso%20Procuradora%20-%20Lanzamiento%20de%20inquilino.md) y [acompañamiento durante varias jornadas en los juzgados](casos/Caso%20Procuradora%20-%20acompa%C3%B1aremos%20a%20la%20procuradora%20durante%20varias%20jornadas%20en%20los%20juzgados%20para%20aprender%20sus%20funciones%20en%20los%20mismos..md). Consta planificación, no realización. Falta concretar fechas y duración y confirmar cómo cubren la estancia exigida; no se presume una exención ni cumplimiento completo.
 
 Se incorpora la [ficha del recurso sobre la pericial del incendio](fuente-recurso-pericial-incendio.md), con escrito fechado el 2026-10-19. Su existencia permite concretar el material del asunto candidato, pero no acredita presentación ni correcciones del tutor.

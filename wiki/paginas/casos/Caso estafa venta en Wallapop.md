@@ -1,4 +1,4 @@
-# Caso Procuradora - acompañaremos a la procuradora durante varias jornadas en los juzgados para aprender sus funciones en los mismos.
+# Caso estafa venta en Wallapop
 
 Fecha de creación: 2026-10-19.
 Última actualización: 2026-10-19.
@@ -10,12 +10,11 @@ Fecha de creación: 2026-10-19.
 - Juzgado o tribunal actual:
 - Número de procedimiento:
 - Parte asistida: utiliza un código o iniciales.
-- Estado y fase actual: actividad prevista para noviembre de 2026; fecha y realización pendientes de confirmar.
+- Estado y fase actual:
 
 ## De qué trata
 
-Acompañaremos a la procuradora Ana Silvia Tizón Ibáñez a  los juzgados varias jornadas durante el mes de noviembre para aprender que funciones desempeña en los juzgados y como las solventa.
-
+Estudio de la sentencia de la AP Zaragoza de un caso de estafa en la venta de un teléfono móvil a través de Wallapop.
 ## Recorrido del procedimiento
 
 Rellena solo las filas aplicables. Puedes eliminar las demás y añadir filas para otras actuaciones. Distingue la fecha de la resolución de la fecha de notificación.
@@ -49,14 +48,13 @@ Elimina este apartado cuando no corresponda.
 
 ## Mi trabajo y aprendizaje
 
-- Actividad programada, todavía sin asistencia registrada. Después se completarán fecha, duración, actuaciones observadas y aprendizaje.
+- Tareas realizadas: enlaza las fichas de tareas relacionadas.
 - Cuestión jurídica estudiada y aprendizaje:
 
 ## Documentos y referencias
 
 Enlaza los escritos, las resoluciones y las fuentes consultadas. Indica la página o el fundamento relevante cuando sea necesario.
 
-- [Asistencia prevista a un lanzamiento](Caso%20Procuradora%20-%20Lanzamiento%20de%20inquilino.md).
-- [Memoria de prácticas](memoria-de-practicas.md): apartado de procura.
-- [Preparación de la entrevista](preparacion-primera-entrevista.md).
-- [Índice de la wiki](../indice.md).
+- [Índice de la wiki](../../indice.md).
+- [Sentencia AP Zaragoza 333/2026 (PDF)](../../fuentes/S%20APZ%207_9_2026.pdf).
+- [Tarea de búsqueda de la sentencia](../tareas/B%C3%BAsqueda%20en%20bases%20de%20datos%20jur%C3%ADdicas%20de%20la%20sentencia%20AP%20Zaragoza%20333_2026%20de%207%20de%20septiembre%202026.md).

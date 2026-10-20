@@ -14,6 +14,8 @@ Consulta `paginas/correos-tutor-academico.md`: el correo del 2026-10-15 concreta
 
 - `fuentes/`: documentos aportados, conservados sin modificaciones; contiene inicialmente una referencia bibliográfica en español.
 - `paginas/`: conocimiento elaborado, con enlaces y referencias.
+- `paginas/casos/`: fichas de casos jurídicos creadas con la plantilla de caso.
+- `paginas/tareas/`: fichas de encargos y tareas creadas con la plantilla de tareas.
 - `plantillas/`: modelos de páginas.
 - `indice.md`: catálogo de todas las páginas y su utilidad.
 - `registro.md`: historial al que solo se añaden entradas.

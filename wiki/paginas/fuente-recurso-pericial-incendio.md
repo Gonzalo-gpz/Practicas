@@ -22,7 +22,7 @@ El PDF acredita que existe un escrito con ese contenido y fecha; no incluye just
 
 ## Enlaces relacionados
 
-- [Tarea de redacción](Recurso%20de%20Reforma%20y%20subsidiario%20de%20Apelaci%C3%B3n.md).
-- [Caso del incendio](Caso%20Incendio%20en%20Garaje%20defensa%20del%20causante.md).
+- [Tarea de redacción](tareas/Recurso%20de%20Reforma%20y%20subsidiario%20de%20Apelaci%C3%B3n.md).
+- [Caso del incendio](casos/Caso%20Incendio%20en%20Garaje%20defensa%20del%20causante.md).
 - [Preparación de la entrevista](preparacion-primera-entrevista.md).
 - [Índice](../indice.md).

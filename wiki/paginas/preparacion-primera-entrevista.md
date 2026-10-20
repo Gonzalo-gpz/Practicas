@@ -100,7 +100,7 @@ El punto 3 del correo no es el apartado III del índice del modelo: corresponde 
 - Procedimiento de estudio: reconstruir la secuencia del expediente, identificar el problema de reparación y comparar fundamentos y resultados de las fuentes. Para completar la memoria, precisar qué búsquedas realizó personalmente el alumno y qué conclusiones revisó el tutor.
 - Resultado conocido: dictamen localizado y análisis preparatorio disponible. No consta reclamación presentada ni pago de la Administración.
 - Aprendizaje que se propone desarrollar: comprobar el fundamento y el resultado de una resolución antes de utilizarla; distinguir investigación jurídica de éxito procesal.
-- Fuentes: [caso penitenciario](Caso%20FP%2073.804%20y%20FP%2081.668.md), [tarea del dictamen](localizacion-dictamen-consejo-de-estado.md) y [análisis jurisprudencial](sentencias-indemnidad-funcionarios-penitenciarios.md).
+- Fuentes: [caso penitenciario](casos/Caso%20FP%2073.804%20y%20FP%2081.668.md), [tarea del dictamen](tareas/localizacion-dictamen-consejo-de-estado.md) y [análisis jurisprudencial](sentencias-indemnidad-funcionarios-penitenciarios.md).
 
 ### Candidato 2. Incendio en garaje
 
@@ -109,7 +109,7 @@ El punto 3 del correo no es el apartado III del índice del modelo: corresponde 
 - Procedimiento que debe describirse con el trabajo real: qué información se extrajo del expediente, qué aspectos de la pericial se discutieron y cómo se ordenaron los argumentos del borrador. Estos detalles todavía no están registrados.
 - Resultado conocido: [PDF del recurso de 2026-10-19 disponible](fuente-recurso-pericial-incendio.md). Pide la nueva pericial a partir de documentación aportada. No acredita correcciones, entrega, presentación ni resolución del recurso.
 - Aprendizaje propuesto: conectar la petición de prueba con el problema concreto del caso y redactar una solicitud clara bajo revisión profesional.
-- Fuentes: [caso del incendio](Caso%20Incendio%20en%20Garaje%20defensa%20del%20causante.md) y [tarea del recurso](Recurso%20de%20Reforma%20y%20subsidiario%20de%20Apelación.md).
+- Fuentes: [caso del incendio](casos/Caso%20Incendio%20en%20Garaje%20defensa%20del%20causante.md) y [tarea del recurso](tareas/Recurso%20de%20Reforma%20y%20subsidiario%20de%20Apelaci%C3%B3n.md).
 
 ### Candidato 3. Querella ferroviaria
 
@@ -118,7 +118,7 @@ El punto 3 del correo no es el apartado III del índice del modelo: corresponde 
 - Intervención propia: pendiente de concretar. Antes de incluir el asunto, indicar si el alumno leyó el expediente, investigó, redactó o revisó algún documento y bajo qué instrucciones.
 - Resultado conocido: archivo provisional recurrido, según la ficha del alumno; faltan resoluciones y estado actualizado.
 - Aprendizaje propuesto: separar hechos, posiciones de las partes y razonamiento judicial, y explicar la utilidad del trabajo personal para el encargo.
-- Fuente: [caso Renfe](Caso%20Querella%20Renfe%20contra%20cliente%20art.%20253%20CP.md). No se vincula automáticamente a la tarea de oposición a reforma: esa relación no está confirmada.
+- Fuente: [caso Renfe](casos/Caso%20Querella%20Renfe%20contra%20cliente%20art.%20253%20CP.md). No se vincula automáticamente a la tarea de oposición a reforma: esa relación no está confirmada.
 
 ## Guion para los diez minutos
 
