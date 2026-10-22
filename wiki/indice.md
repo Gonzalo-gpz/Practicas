@@ -73,7 +73,8 @@ Actualizado: 2026-10-19.
 
 ## Preparación del índice y de la entrevista
 
-- [Índice provisional para el tutor académico](paginas/indice-provisional-para-tutor-academico.md): versión independiente con subapartados de tareas, competencias, aprendizajes y evaluación, además de los asuntos y las actividades de procura previstas.
+- [Índice provisional para el tutor académico — v3](paginas/indice-provisional-para-tutor-academico-v3.md): versión actualizada el 2026-10-21 con la tarea de búsqueda de la sentencia AP Zaragoza 333/2026 y tres asuntos candidatos.
+- [Versión anterior del índice provisional](paginas/indice-provisional-para-tutor-academico.md): borrador v2, conservado como referencia.
 
 - [Borrador de índice y desarrollo del punto 3](paginas/preparacion-primera-entrevista.md): propuesta para enviar antes del jueves 22 y preparar la entrevista del viernes 23; asuntos y estado pendientes de validación personal. No consta envío.
 

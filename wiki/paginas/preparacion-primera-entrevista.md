@@ -1,12 +1,12 @@
 # Preparación de la entrevista y borrador del índice
 
-Actualización: 2026-10-19. Estado: propuesta para revisión del alumno; no enviada ni aprobada por el tutor. Los tres asuntos son candidatos, no una selección definitiva.
+Actualización: 2026-10-21. Estado: versión v3 preparada para remitir; no consta envío ni aprobación del tutor. Los tres asuntos son candidatos, no una selección definitiva.
 
 ## Fechas y objetivo
 
 Entrevista: 2026-10-23, 12:20–12:30. Enviar el índice como máximo el miércoles 2026-10-21: el correo dice «antes del jueves 22», aunque el alumno identifica el jueves como fecha límite. No consta modificación escrita del plazo. Preparar especialmente el contenido a.3 del correo: problemas planteados y procedimiento seguido para resolverlos.
 
-La [versión independiente del índice para remitir](indice-provisional-para-tutor-academico.md) reúne la propuesta actualizada, sin el guion interno de preparación.
+La [versión v3 del índice para remitir](indice-provisional-para-tutor-academico-v3.md) reúne la propuesta actualizada, sin el guion interno de preparación.
 
 ## Borrador de índice para remitir
 
@@ -111,14 +111,13 @@ El punto 3 del correo no es el apartado III del índice del modelo: corresponde 
 - Aprendizaje propuesto: conectar la petición de prueba con el problema concreto del caso y redactar una solicitud clara bajo revisión profesional.
 - Fuentes: [caso del incendio](casos/Caso%20Incendio%20en%20Garaje%20defensa%20del%20causante.md) y [tarea del recurso](tareas/Recurso%20de%20Reforma%20y%20subsidiario%20de%20Apelaci%C3%B3n.md).
 
-### Candidato 3. Querella ferroviaria
+### Candidato 3. Estafa en venta por Wallapop
 
-- Problema: controversia sobre la comercialización de billetes y el destino de cantidades recibidas, descrita en la ficha como querella por apropiación indebida.
-- Material registrado: la ficha identifica argumentos de acusación y defensa y referencias jurisprudenciales. Esta preparación no verifica esas referencias ni reproduce sus conclusiones como doctrina comprobada.
-- Intervención propia: pendiente de concretar. Antes de incluir el asunto, indicar si el alumno leyó el expediente, investigó, redactó o revisó algún documento y bajo qué instrucciones.
-- Resultado conocido: archivo provisional recurrido, según la ficha del alumno; faltan resoluciones y estado actualizado.
-- Aprendizaje propuesto: separar hechos, posiciones de las partes y razonamiento judicial, y explicar la utilidad del trabajo personal para el encargo.
-- Fuente: [caso Renfe](casos/Caso%20Querella%20Renfe%20contra%20cliente%20art.%20253%20CP.md). No se vincula automáticamente a la tarea de oposición a reforma: esa relación no está confirmada.
+- Problema: estudio de una sentencia de la Audiencia Provincial de Zaragoza en un caso de estafa por la venta de un teléfono móvil a través de Wallapop.
+- Encargo e intervención registrada: búsqueda y lectura de la sentencia 333/2026, de 2026-09-07, indicada por el tutor profesional.
+- Procedimiento y resultado: los datos del expediente, el resultado de la sentencia y las conclusiones del estudio están pendientes de completar en las fichas.
+- Aprendizaje propuesto: localizar una resolución en bases de datos jurídicas y distinguir los hechos y fundamentos de la sentencia de las hipótesis sobre su relación con otros asuntos.
+- Fuentes: [ficha del caso](casos/Caso%20estafa%20venta%20en%20Wallapop.md), [tarea de búsqueda](tareas/B%C3%BAsqueda%20en%20bases%20de%20datos%20jur%C3%ADdicas%20de%20la%20sentencia%20AP%20Zaragoza%20333_2026%20de%207%20de%20septiembre%202026.md) y [PDF de la sentencia](../fuentes/S%20APZ%207_9_2026.pdf).
 
 ## Guion para los diez minutos
 
@@ -132,8 +131,8 @@ Priorizar estas preguntas: aceptación del índice de siete apartados, encaje de
 ## Antes del envío y de la entrevista
 
 1. Elegir los asuntos según la intervención propia; máximo tres en la memoria.
-2. Confirmar revisión, entrega y presentación del recurso del incendio y trabajo personal en Renfe. Si este último no está suficientemente documentado, dejar su título genérico o sustituirlo por un asunto mejor registrado.
-3. Enviar el índice con indicación de que es provisional, preferiblemente el miércoles 21. Registrar fecha, archivo enviado y respuesta.
+2. Confirmar revisión, entrega y presentación del recurso del incendio y completar los datos procesales y conclusiones del asunto Wallapop.
+3. Enviar la versión v3 del índice, indicando que se trata de una propuesta. Registrar la fecha, el archivo enviado y la respuesta.
 4. Preparar un esquema breve de problema, actuación propia, resultado y aprendizaje para cada asunto que se vaya a exponer.
 5. Comprobar acceso con la cuenta universitaria, cámara y micrófono antes del viernes. No consta aún asistencia a esta entrevista.
 

@@ -137,3 +137,7 @@ Se sustituyeron i y ii por 1 y 2 en el índice provisional para el tutor y en la
 ## [2026-10-19] organización | Carpetas de casos y tareas
 
 Se trasladaron las ocho fichas de casos a `paginas/casos/` y las cuatro fichas de tareas a `paginas/tareas/`. Se actualizaron los enlaces relativos en las fichas, el índice general, la guía y las páginas relacionadas; se documentó la nueva estructura en `AGENTS.md` y `LEEME.md`. Se mantuvieron las páginas de análisis, contexto y fuentes en `paginas/`.
+
+## [2026-10-21] índice académico | Versión v3 para remitir
+
+Se creó `paginas/indice-provisional-para-tutor-academico-v3.md`, conservando intacta la versión anterior. Se incorporó como tercer asunto candidato el caso de estafa en Wallapop a partir de la búsqueda y lectura de la sentencia AP Zaragoza 333/2026; se consignaron como pendientes los datos procesales y las conclusiones aún no documentadas. Se mantuvieron como candidatos el caso penitenciario y el recurso del incendio, y se aclaró que las actividades de procura siguen previstas y no acreditan asistencia. Se actualizaron los enlaces de la preparación de entrevista y del índice general. No consta envío al tutor.
